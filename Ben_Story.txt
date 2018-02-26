@@ -17,3 +17,5 @@ Able to handle large projects like the Linux kernel efficiently (speed and data 
 
 Since its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s amazingly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (See Git Branching).
 So what does Ben have to do with this story? I will leave that to your imagination. 
+
+Oh did I forget to tell you? Git is really Ben's grey Russian Blue cat. 
