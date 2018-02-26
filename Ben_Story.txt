@@ -11,7 +11,7 @@ Simple design
 
 Strong support for non-linear development (thousands of parallel branches)
 
-Fully distributed
+Fully distrubed (what? did you really mean disturbed as in mentaly?)
 
 Able to handle large projects like the Linux kernel efficiently (speed and data size)
 
